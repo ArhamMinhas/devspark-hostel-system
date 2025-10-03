@@ -65,7 +65,7 @@ header {
 
 /* ========== Hero Section ========== */
 .hero {
-  background: url('../assets/hostel.jpg') center/cover no-repeat;
+  background: url('../assets/images/hostel.jpg') center/cover no-repeat;
   height: 80vh;
   display: flex;
   align-items: center;

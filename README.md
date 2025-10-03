@@ -1,2 +1,0 @@
-# devspark-hostel-system
-Assignment
